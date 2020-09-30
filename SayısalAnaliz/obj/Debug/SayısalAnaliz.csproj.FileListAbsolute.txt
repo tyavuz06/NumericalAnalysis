@@ -1,0 +1,48 @@
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\bin\Debug\SayısalAnaliz.exe.config
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\bin\Debug\SayısalAnaliz.exe
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\bin\Debug\SayısalAnaliz.pdb
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\bin\Debug\MathNet.Numerics.dll
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\bin\Debug\MathNet.Numerics.xml
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.BiSection.resources
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.Form1.resources
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.GoldenRate.resources
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.NewtonRaphson.resources
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.Properties.Resources.resources
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csproj.GenerateResource.cache
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csproj.CoreCompileInputs.cache
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csproj.CopyComplete
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.exe
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.pdb
+C:\Users\turgu\source\repos\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csprojAssemblyReference.cache
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\bin\Debug\SayısalAnaliz.exe.config
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\bin\Debug\SayısalAnaliz.exe
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\bin\Debug\SayısalAnaliz.pdb
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\bin\Debug\MathNet.Numerics.dll
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\bin\Debug\MathNet.Numerics.xml
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csprojAssemblyReference.cache
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.BiSection.resources
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.Form1.resources
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.GoldenRate.resources
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.NewtonRaphson.resources
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.Properties.Resources.resources
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csproj.GenerateResource.cache
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csproj.CopyComplete
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.exe
+C:\Users\yakup\Desktop\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.pdb
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\bin\Debug\SayısalAnaliz.exe.config
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\bin\Debug\SayısalAnaliz.exe
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\bin\Debug\SayısalAnaliz.pdb
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\bin\Debug\MathNet.Numerics.dll
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\bin\Debug\MathNet.Numerics.xml
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csprojAssemblyReference.cache
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.BiSection.resources
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.Form1.resources
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.GoldenRate.resources
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.NewtonRaphson.resources
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.Properties.Resources.resources
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csproj.GenerateResource.cache
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csproj.CoreCompileInputs.cache
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.csproj.CopyComplete
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.exe
+D:\DERS\Yazılan Programlar\SayısalAnaliz\SayısalAnaliz\obj\Debug\SayısalAnaliz.pdb
